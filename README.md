@@ -7,3 +7,10 @@
 <p>Atuação em projetos de mapeamento (ferramenta Bizagi) para melhoria de processos</p>
 <p>Elaboração de Relatórios Gerenciais e Report Financeiro</p>
 <p> Atuação em grandes riscos em funções de Cosseguro</p>
+
+Formação Acadêmica:</b> Graduação em Economia, Licenciatura em Matemática e MBA em Gestão Empresarial</h3>
+
+<p> Contato Linkedin: <a href="https://www.linkedin.com/in/isabel-cristina-giansante-azevedo"</p>
+<p> Contato Githubb : <a href="https://Github.com/isacristinagian"   </p>
+
+</body>
