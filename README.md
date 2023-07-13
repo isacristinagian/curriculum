@@ -8,9 +8,9 @@
 <p>Elaboração de Relatórios Gerenciais e Report Financeiro</p>
 <p> Atuação em grandes riscos em funções de Cosseguro</p>
 
-Formação Acadêmica:</b> Graduação em Economia, Licenciatura em Matemática e MBA em Gestão Empresarial</h3>
+<p>Formação Acadêmica:</b> Graduação em Economia, Licenciatura em Matemática e MBA em Gestão Empresarial</p>
 
-<p Contato  <a href="https://www.linkedin.com/in/isabel-cristina-giansante-azevedo" alt="Linkedin"</a> </p>
-<p Githubb : <a href="https://Github.com/isacristinagian" alt="Meus Repositórios" </a></p>
+<p Contato  <a href="https://www.linkedin.com/in/isabel-cristina-giansante-azevedo" alt="Linkedin"</a></p>
+<p Githubb  <a href="https://Github.com/isacristinagian" alt="Meus Repositórios" </a></p>
 
 </body>
