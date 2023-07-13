@@ -10,7 +10,7 @@
 
 Formação Acadêmica:</b> Graduação em Economia, Licenciatura em Matemática e MBA em Gestão Empresarial</h3>
 
-<p> Contato Linkedin: <a href="https://www.linkedin.com/in/isabel-cristina-giansante-azevedo"</p>
-<p> Contato Githubb : <a href="https://Github.com/isacristinagian"   </p>
+<p Contato  <a href="https://www.linkedin.com/in/isabel-cristina-giansante-azevedo" alt="Linkedin"</a> </p>
+<p Githubb : <a href="https://Github.com/isacristinagian" alt="Meus Repositórios" </a></p>
 
 </body>
