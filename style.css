@@ -1,5 +1,5 @@
 body{
-    width: 80%;
+    width: 100%;
     max-width: 50rem;
     min-width: 20rem;
     background-color: hwb(0 89% 5%);
@@ -26,8 +26,8 @@ text-decoration: none;
 }
 
 header img{
-width: 9.37em;
-height: 9.5em;
+width: 5em;
+height: 5em;
 border-radius: 50%;
 border: .3em solid #bc8f8f;
 color: hsl(0, 25%, 65%);
