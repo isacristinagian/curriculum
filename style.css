@@ -62,11 +62,9 @@ color: hsl(0, 25%, 65%);
 }
 
 .center{
-width:4 px;
-hidth:4 px;
-margin: 0;   
-top: 50%;
-left: 50%;
+max-width:4 px;
+margin: 0;  
+justify-content: center;    
 }
 
 header h1{
