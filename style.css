@@ -83,6 +83,10 @@ footer{
     border-bottom: .2rem solid #011601;
     padding: 3 rem;
 }
+footer img{
+width: 2em;
+height: 2em;
+}
 
 
 
