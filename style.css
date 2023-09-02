@@ -62,9 +62,9 @@ color: hsl(0, 25%, 65%);
 }
 
 .center{
-max-width:4 px;
-margin: 0;  
-justify-content: center;    
+text-align: center;
+margin-left: auto;
+margin-right: auto;
 }
 
 header h1{
