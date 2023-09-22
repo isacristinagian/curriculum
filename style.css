@@ -13,14 +13,14 @@ body{
     column-count: 2;
     column-gap: 2 ch;
     text-align: center;
-   color: hwb(140 0% 91%);
-    padding: 1rem;
+        padding: 1rem;
 }
  
 }
 a{
 color: #556b2f;
 text-decoration:none;
+color: hwb(140 0% 91%);   
 }
 
 header img{
