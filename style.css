@@ -70,6 +70,7 @@ header h1{
     padding-top: 1rem;
     color: #556b2f;
     justify-content: space-between;
+    text-align: center; 
     border-top: .2rem solid #011601; ;
     border-bottom: .2rem solid #011601;
     padding: 3 rem;
@@ -82,11 +83,9 @@ Footer h1{
     }
 
 footer img{
-height : 2em;
-width= 2em; 
-align-items: center; 
-text-align: center; 
-justify-content: space-between;    
+height : 3em;
+width= 3em; 
+ 
 }
 
 
