@@ -65,9 +65,9 @@ header h1{
     text-align: center;
 }
 
-footer{
-    padding-top: 1rem;
+.footer{
     display: flex;
+    padding-top: 1rem;
     color: #556b2f;
     justify-content: space-between;
     border-top: .2rem solid #011601; ;
@@ -79,12 +79,13 @@ Footer h1{
     color: #5bbe42;
     font-style: italic;
     text-align: center;
-    align-items: center;
-}
+    }
 
 footer img{
-display: inline-block;    
-width: 2em;
-height: 2em;
+height : 2em;
+width= 2em; 
+align-items: center; 
+text-align: center; 
+}
 
 
