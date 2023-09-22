@@ -13,7 +13,7 @@ body{
     column-count: 2;
     column-gap: 2 ch;
     text-align: center;
-    color: hsl(253, 96%, 50%);
+   color: hwb(140 0% 91%);
     padding: 1rem;
 }
  
