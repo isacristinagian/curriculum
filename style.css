@@ -23,10 +23,10 @@ text-decoration:none;
 }
 
 header img{
-width: 8em;
-height:8em;
+width: 10em;
+height:10em;
 border-radius: 50%;
-border: 1em solid #bc8f8f;
+border: .3em solid #bc8f8f;
 color: hsl(0, 25%, 65%);
 }
 
@@ -36,7 +36,8 @@ margin-left: auto;
 margin-right: auto;
 }
 .cv_pdf{
- text-decoration:none;   
+ text-decoration:none; 
+ border-radius:0%;   
 }
 
 header h1{
