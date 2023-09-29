@@ -35,6 +35,9 @@ text-align: center;
 margin-left: auto;
 margin-right: auto;
 }
+.cv_pdf{
+ text-decoration:none;   
+}
 
 header h1{
     color: #5bbe42;
